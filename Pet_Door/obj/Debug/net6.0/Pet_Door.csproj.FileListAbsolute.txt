@@ -1,0 +1,15 @@
+C:\Users\MDT\Desktop\Week_4\Pet_Door\bin\Debug\net6.0\Pet_Door.exe
+C:\Users\MDT\Desktop\Week_4\Pet_Door\bin\Debug\net6.0\Pet_Door.deps.json
+C:\Users\MDT\Desktop\Week_4\Pet_Door\bin\Debug\net6.0\Pet_Door.runtimeconfig.json
+C:\Users\MDT\Desktop\Week_4\Pet_Door\bin\Debug\net6.0\Pet_Door.dll
+C:\Users\MDT\Desktop\Week_4\Pet_Door\bin\Debug\net6.0\Pet_Door.pdb
+C:\Users\MDT\Desktop\Week_4\Pet_Door\obj\Debug\net6.0\Pet_Door.csproj.AssemblyReference.cache
+C:\Users\MDT\Desktop\Week_4\Pet_Door\obj\Debug\net6.0\Pet_Door.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\Desktop\Week_4\Pet_Door\obj\Debug\net6.0\Pet_Door.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\Week_4\Pet_Door\obj\Debug\net6.0\Pet_Door.AssemblyInfo.cs
+C:\Users\MDT\Desktop\Week_4\Pet_Door\obj\Debug\net6.0\Pet_Door.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\Week_4\Pet_Door\obj\Debug\net6.0\Pet_Door.dll
+C:\Users\MDT\Desktop\Week_4\Pet_Door\obj\Debug\net6.0\refint\Pet_Door.dll
+C:\Users\MDT\Desktop\Week_4\Pet_Door\obj\Debug\net6.0\Pet_Door.pdb
+C:\Users\MDT\Desktop\Week_4\Pet_Door\obj\Debug\net6.0\Pet_Door.genruntimeconfig.cache
+C:\Users\MDT\Desktop\Week_4\Pet_Door\obj\Debug\net6.0\ref\Pet_Door.dll
